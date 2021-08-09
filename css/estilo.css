@@ -1,0 +1,65 @@
+/*Tipo de color y tipo de letra de los  
+ H1 de todos los html*/
+h1 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  margin-left: 0px;
+  margin-top: 30px; }
+
+/*El footer*/
+footer {
+  text-align: center;
+  margin-top: 50px; }
+
+/*Todo lo que estoy usando para el header*/
+.navegador .navegador__lista {
+  height: 23px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 1em; }
+
+.navegador .navegador__link {
+  text-decoration: none;
+  color: #fcfcfc; }
+
+/*Fondo de la pagina*/
+body {
+  background-color: #db9a38; }
+
+/*Color de los links de twitter e instagram*/
+.colorLinks {
+  color: black; }
+
+/*Textos del html TRAYECTORIA*/
+li {
+  display: inline-block; }
+
+.trayectoria .trayectoria__titulo {
+  text-align: center; }
+
+.trayectoria .trayectoria__subtitulo {
+  margin-top: 25%;
+  margin-bottom: 15%; }
+
+.trayectoria .trayectoria__texto {
+  margin-top: 2%; }
+
+/*Margenes del texto y la foto del HOME*/
+.margenFoto {
+  margin-left: 40px;
+  margin-right: 20px; }
+
+.margenBio, .contactoF {
+  text-align: center;
+  margin-top: 3%; }
+
+/*html de CONTACTO*/
+fieldset {
+  text-align: center; }
+
+textarea {
+  margin-left: 13%; }
+
+/*Margenes para los goles*/
